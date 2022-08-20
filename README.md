@@ -13,7 +13,7 @@
 
 # :boom: About Me !
 
-- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js.
+- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js,node.js,Unreal engine,Cfx Leguage 
 - :sparkling_heart: I'm currently learning more about JavaScript
 - :pray: I help many people with doubts or who don't know how to program.
 - :sunglasses: Always try Search for what I don't know or search for more information
@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/CSS-0B79DA?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
    <img src="https://img.shields.io/badge/fivem-FA9B00?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx language">
-   <img src="https://img.shields.io/badge/node-03DE00?style=for-the-badge&logo=node&logoColor=white" alt="nodejs">
+   <img src="https://img.shields.io/badge/node.js-03DE00?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs">
+   <img src="https://img.shields.io/badge/unreal-313531?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unrealengine">
+   
   
   # 😋 Information Tables!
   

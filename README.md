@@ -40,7 +40,7 @@
   
   # 😋 Information Tables!
   
- <img src="https://github-readme-stats.vercel.app/api?username=lancervrp&theme=dark" alt> 
+ <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IBatatinha=anuraghazra&show_icons=true&theme=radical)" alt> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancervrp&theme=dark" alt>
   
    </div>

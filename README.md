@@ -40,14 +40,14 @@
   
   # 😋 Information Tables!
   
- <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IBatatinha=anuraghazra&show_icons=true&theme=radical)" alt> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancervrp&theme=dark" alt>
+ <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBatatinha&show_icons=true&theme=radical)" alt> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBatatinha&theme=dark" alt>
   
    </div>
 
 
     
-  ![Snake animation](https://github.com/lancerVRP/Lancervrp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IBatatinha/IBatatinha/blob/output/github-contribution-grid-snake.svg)
  
 <!--
 **lancerVRP/Lancervrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

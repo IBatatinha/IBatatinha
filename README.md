@@ -13,7 +13,7 @@
 
 # :boom: About Me !
 
-- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js,node.js,Unreal engine,Cfx Leguage 
+- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js,node.js,Cfx Leguage 
 - :sparkling_heart: I'm currently learning more about JavaScript
 - :pray: I help many people with doubts or who don't know how to program.
 - :sunglasses: Always try Search for what I don't know or search for more information
@@ -29,7 +29,7 @@
 
 # 🥰 Programming language I work!
   
-    <img src="https://img.shields.io/badge/HTML-FA5F00?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/HTML-FA5F00?style=for-the-badge&logo=html5&logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/CSS-0B79DA?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
    <img src="https://img.shields.io/badge/fivem-FA9B00?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx language">

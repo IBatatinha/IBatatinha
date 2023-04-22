@@ -13,7 +13,7 @@
 
 # :boom: About Me !
 
-- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js,node.js,Cfx Leguage 
+- :movie_camera: Currently Trained Lua Programmer Full Stack Frontend,Backend,HTML,css,js,node.js,Cfx Leguage, typescript, react, vite.js, redux.js
 - :sparkling_heart: I'm currently learning more about JavaScript
 - :pray: I help many people with doubts or who don't know how to program.
 - :sunglasses: Always try Search for what I don't know or search for more information

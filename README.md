@@ -27,17 +27,21 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Ferramentas
+<div align="center">
+    <img src='https://github.com/IBatatinha/IBatatinha/blob/output/github-contribution-grid-snake-dark.svg'>
+</div>
+
+## Linguagens
 
 <table style="overflow:hidden">
   <tr>
-      <td align="center" width="96" height="100">
+      <td align="center" width="80" height="80">
       <a href="#lua">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="40" height="40" alt="Lua" />
       </a>
     </td>
   </tr>
 </table>
 
-![snake animation](https://github.com/IBatatinha/IBatatinha/blob/output/github-contribution-grid-snake-dark.svg)
+
 

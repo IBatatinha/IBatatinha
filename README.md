@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-    <img src='https://github.com/IBatatinha/IBatatinha/blob/output/github-contribution-grid-snake.gif'>
+    <img src='https://github.com/IBatatinha/IBatatinha/blob/output/github-contribution-grid-snake.svg'>
 </div>
 
 ## Linguagens

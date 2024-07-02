@@ -7,8 +7,7 @@
 </div>
 
 
-   Sou um **estudate** de **programação** sempre buscando a **aprender** mais e **inovar meus scripts**, mas também venho estudando outras linguagens. Tendo um foco maior no lua tanto vanilla ou voltado ao fivem.
-   Atualmente venho estudando **Lua** e começando a estudar a parte frontend como **Html**, **Css**, **Js** e mais...
+   Sou um desenvolvedor Fullstack ou seja tenho experiência com backend e frontend, minha especialização são em Lua (Voltado totalmente para o FiveM), Node.js, js, React e outras linguagems como de maracação como html, css.
    aqui está meu canal não venho postando muito videos; mas está alguns que possa te ajudar [canal](https://www.youtube.com/channel/UCB6VCZCcELv6JstQFZRgLrw)
 
    **Hoje**, eu tenho experiência básica em front; mas continuando avançando conhecimento no banck e front;

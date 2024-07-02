@@ -7,7 +7,7 @@
 </div>
 
 
-   Sou um desenvolvedor Fullstack, ou seja, tenho experiência com backend e frontend, minha especialização são em Lua (Voltado totalmente para o FiveM), Node.js, js, React e outras linguagems como de maracação como html, css.
+   Sou um desenvolvedor Fullstack, ou seja, tenho experiência com backend e frontend, minha especialização são em Lua (Voltado totalmente para o FiveM), Node.js, js, React e outras linguagems como de marcação como html, css.
    aqui está meu canal não venho postando muito videos; mas está alguns que possa te ajudar [canal](https://www.youtube.com/channel/UCB6VCZCcELv6JstQFZRgLrw)
 
    **Hoje**, eu tenho experiência em front e back; mas continuando avançando conhecimento no banck e front;

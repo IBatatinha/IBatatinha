@@ -30,17 +30,5 @@
     <img src='https://github.com/IBatatinha/IBatatinha/blob/output/github-snake-dark.svg'>
 </div>
 
-## Linguagens
-
-<table style="overflow:hidden">
-  <tr>
-      <td align="center" width="80" height="80">
-      <a href="#lua">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="40" height="40" alt="Lua" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 

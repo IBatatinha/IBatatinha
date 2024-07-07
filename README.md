@@ -2,7 +2,7 @@
 
 <div> 
 
-   <img align="right" width="165" height="165" src="https://media.discordapp.net/attachments/1252306005346353163/1257717619851792514/89782440.png?ex=66856c4f&is=66841acf&hm=b572d32ab07eb9ced8fee209b02c3c7d7927c6a3bf08cf13e91fb797907ec10a&=&format=webp&quality=lossless">
+   <img align="right" width="165" height="165" src="https://pub-bff8f448ece84d1f9e857edc61a839be.r2.dev/95888942-b1ff-4f29-9f3b-70587b76c2c2-personagem.png">
       
 </div>
 

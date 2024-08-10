@@ -2,7 +2,7 @@
 
 <div> 
 
-   <img align="right" width="165" height="165" src="https://pub-bff8f448ece84d1f9e857edc61a839be.r2.dev/95888942-b1ff-4f29-9f3b-70587b76c2c2-personagem.png">
+   <img align="right" width="165" height="165" src="https://pub-c8bfca0fd1cf4921970a04ba8c42e38f.r2.dev/personagem.png">
       
 </div>
 

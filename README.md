@@ -1,4 +1,6 @@
-<div align="center">
+
+<div align="left">
+   <img align="right" width="165" height="165" src="https://pub-c8bfca0fd1cf4921970a04ba8c42e38f.r2.dev/personagem.png" />  
    <h3>Olá, Eu sou o Batatinha! 👋</h3>
 
    <span>Sou um desenvolvedor fulltack que está envoluindo a cada dia...</span>
@@ -10,6 +12,8 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    </a> 
 </div>
+
+<br />
 
 ## Status: 
 

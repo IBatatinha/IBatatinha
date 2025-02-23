@@ -1,6 +1,8 @@
 <div align="center">
    <h3>Olá, Eu sou o Batatinha! 👋</h3>
 
+   <span>Sou um desenvolvedor fulltack que está envoluindo a cada dia...</span>
+
    <a href="https://www.instagram.com/lkbatatinha/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>

@@ -5,7 +5,7 @@
 
    <span>Sou um desenvolvedor fulltack que está envoluindo a cada dia...</span>
 
-   <a href="https://www.instagram.com/lkbatatinha/" target="_blank">
+   <a href="https://www.instagram.com/pedro.peninha/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
    <a href="https://discord.gg/7TugNbGwdG" target="_blank">
@@ -58,7 +58,13 @@
     </td>
     <td align="center" width="96" height="96">
       <a href="#css">
-        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>
+    </td>
+       <td align="center" width="96" height="96">
+      <a href="#ts">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="48" height="48" alt="ts" />
       </a>
       <br>
     </td>

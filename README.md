@@ -5,7 +5,7 @@
 
    <span>I'm a full-stack developer, and already developed some projects for FiveM and others. I'm evolving each day...</span>
 
-   <a href="https://www.instagram.com/pedro.peninha/" target="_blank">
+   <a href="https://www.instagram.com/batatinha.__/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
    <a href="https://discord.gg/xJRnTb3Ym7" target="_blank">
@@ -25,8 +25,6 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&langs_count=7&theme=tokyonight"/>
    </a>
 </div>
-
-
 
 <div align="center">
    <img src="https://github.com/IBatatinha/IBatatinha/blob/output/github-snake-dark.svg" alt>

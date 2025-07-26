@@ -1,9 +1,9 @@
 
 <div align="left">
    <img align="right" width="165" height="165" src="https://pub-c8bfca0fd1cf4921970a04ba8c42e38f.r2.dev/personagem.png" />  
-   <h3>Olá, Eu sou o Batatinha! 👋</h3>
+   <h3>Hello, I'm Batatinha! 👋</h3>
 
-   <span>Sou um desenvolvedor fulltack que está envoluindo a cada dia...</span>
+   <span>I'm a full-stack developer, and already developed some projects for FiveM and others. I'm evolving each day...</span>
 
    <a href="https://www.instagram.com/pedro.peninha/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">

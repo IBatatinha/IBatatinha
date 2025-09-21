@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<p>
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -11,7 +11,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</p>
 
 **`👨‍💻 Batatinha. I'm a full-stack developer`**
 

@@ -1,31 +1,3 @@
+**`👨‍💻 Batatinha. I'm a full-stack developer`**
 
-<div align="left">
-   <img align="right" width="165" height="165" src="https://pub-c8bfca0fd1cf4921970a04ba8c42e38f.r2.dev/personagem.png" />  
-   <h3>Hello, I'm Batatinha! 👋</h3>
-
-   <span>I'm a full-stack developer, and already developed some projects for FiveM and others. I'm evolving each day...</span>
-
-   <a href="https://www.instagram.com/batatinha.__/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-   </a>
-   <a href="https://discord.gg/xJRnTb3Ym7" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-   </a> 
-</div>
-
-<br />
-
-## Status: 
-
-<br />
-
-<div align="center">
-   <a href="https://github.com/IBatatinha">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IBatatinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&langs_count=7&theme=tokyonight"/>
-   </a>
-</div>
-
-<div align="center">
-   <img src="https://github.com/IBatatinha/IBatatinha/blob/output/github-snake-dark.svg" alt>
-</div>
+Me chamo Pedro, mais conhecido como Batatinha. Tenho 16 anos e sou naturalmente de São Paulo. Comecei no mundo da programação por volta de 2020, com diversos cursos online consegui adquirir um amplo conhecimento na área, e atualmente venho cursando Desenvolvimento de Sistemas na Etec. Sou apaixonado por programação e tecnologia, e venho compartilhando meu conhecimento através do meu canal do YouTube "[Batatinha](https://www.youtube.com/@batatinha0001)", onde ensino a criar scripts para FiveM, dicas sobre programação em geral e diversas outras coisas. Além disso tenho meu Instagram, que por lá costumo postar mais coisas sobre-min. com o perfil chamado "[batatinha.__](https://www.instagram.com/batatinha.__/)".

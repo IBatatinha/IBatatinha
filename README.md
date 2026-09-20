@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" width="70%"  />
 <br/>
 
-<picture align="center">
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://typingsvg.vercel.app/api/svg?height=50&backgroundOpacity=0&center=false&vCenter=false&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22👋%20Hello%2C+I%27m+Batatinha%22%2C%22font%22%3A%22Poppins%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A21%2C%22typingSpeed%22%3A0.3333333333333333%2C%22fontWeight%22%3A%22600%22%2C%22lineHeight%22%3A1.8%7D%5D">
   <source media="(prefers-color-scheme: light)" srcset="https://typingsvg.vercel.app/api/svg?height=50&backgroundOpacity=0&center=false&vCenter=false&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22👋%20Hello%2C+I%27m+Batatinha%22%2C%22font%22%3A%22Poppins%22%2C%22fontSize%22%3A21%2C%22typingSpeed%22%3A0.3333333333333333%2C%22fontWeight%22%3A%22600%22%2C%22lineHeight%22%3A1.8%7D%5D">
   <img src="https://typingsvg.vercel.app/api/svg?height=50&backgroundOpacity=0&center=false&vCenter=false&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22👋%20Hello%2C+I%27m+Batatinha%22%2C%22font%22%3A%22Poppins%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A21%2C%22typingSpeed%22%3A0.3333333333333333%2C%22fontWeight%22%3A%22600%22%2C%22lineHeight%22%3A1.8%7D%5D">
@@ -15,9 +15,12 @@
 <a href="https://www.instagram.com/batatinha.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord"></a>
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
     
-<div align="center" style="flex-direction: column;">
+<div align="left" style="width: 70%;" width="70%">
 
 <img src="https://github-stats-extended.vercel.app/api?username=IBatatinha&theme=apprentice&card_width=400" />
+
+<br />
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=apprentice&card_width=50" />
 
 </div>

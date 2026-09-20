@@ -1,7 +1,14 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/banner-01.jpg" width="25%" align="right" />
-    <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" width="70%"  />
+<img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/banner-01.jpg" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" width="70%"  />
 
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/breakout-dark-contribution-graph.svg">
+    <img alt="breakout  contribution graph" src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/breakout-contribution-graph.svg">
+</picture>
 </div>
 
 
@@ -120,10 +127,4 @@ Me chamo Pedro, mais conhecido como Batatinha. Tenho 16 anos e sou naturalmente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 
-<!-- [game-name] -->
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-</picture>
 

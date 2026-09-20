@@ -14,7 +14,6 @@
 <a href="https://discord.gg/xJRnTb3Ym7"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="https://www.instagram.com/batatinha.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord"></a>
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
-<br />
 
 <div style="flex-direction: row;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load">
@@ -128,7 +127,5 @@ Hi, my is Batatinha, or rather, Pedro. I'm 16 years old and start programming si
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/pacman-contribution-graph.svg">
 </picture>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" width="70%"  />

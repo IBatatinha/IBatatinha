@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/IBatatinha/IBatatinha/assets/banner-01.jpg" width="25%" align="right" />
+    <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/banner-01.jpg" width="25%" align="right" />
+    <img src="" />
 </div>
 `👋 hi, my name is Batatinha!`
 

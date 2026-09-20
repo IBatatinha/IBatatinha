@@ -16,8 +16,10 @@
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
     
 <div align="center" style="flex-direction: column;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBatatinha&theme=apprentice&animation=load" /></div>
+
+<img src="https://github-stats-extended.vercel.app/api?username=IBatatinha&theme=apprentice&card_width=20" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=apprentice&card_width=20" />
+
 </div>
 </div>
 

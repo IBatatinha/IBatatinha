@@ -14,10 +14,11 @@
 <a href="https://discord.gg/xJRnTb3Ym7"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="https://www.instagram.com/batatinha.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord"></a>
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
-
+    
 <div style="width: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBatatinha&theme=apprentice&animation=load" /></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBatatinha&theme=apprentice&animation=load" /></div>
+</div>
 </div>
 
 

@@ -28,7 +28,7 @@
 
 
 ### About Me
-Hi, my name is Batatinha, or rather, Pedro. I'm 16 years old and start programming since very young and i'm from São Paulo in Brazil, so i'm like a lot programming and every day i'm developing random thing and try to do projects with i have in my mind.
+Hiii, my name is Batatinha, or rather, Pedro. I'm 16 years old and I'm from Brazil and I live in São Paulo. I'm like programming a lot and i do random project that i have in my mind. I'm beginning in the programming world from a very young age so every day i'm trying to improve my skills. 😊
 
 ### 🧑‍💻 Technologies
 <br/>

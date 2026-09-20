@@ -17,7 +17,7 @@
     
 <div align="center" style="flex-direction: column;">
 
-<img src="https://github-stats-extended.vercel.app/api?username=IBatatinha&theme=apprentice&card_width=20" />
+<img src="https://github-stats-extended.vercel.app/api?username=IBatatinha&theme=apprentice&card_width=100" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=apprentice&card_width=20" />
 
 </div>

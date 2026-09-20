@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/IBatatinha/IBatatinha/assets/banner-01.jpg" width="25%" align="right" />
+</div>
 `👋 hi, my name is Batatinha!`
 
 **`👨‍💻 Batatinha. I'm a full-stack developer`**

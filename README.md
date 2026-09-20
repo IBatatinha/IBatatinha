@@ -30,7 +30,7 @@
 ### About Me
 Hi, my is Batatinha, or rather, Pedro. I'm 16 years old and start programming since very young and i'm from São Paulo in Brazil, so i'm like a lot programming and every day i'm developing random thing and try to do projects with i have in my mind.
 
-### 🧑‍💻 Tecnologias
+### 🧑‍💻 Technologies
 <br/>
 
 <img 

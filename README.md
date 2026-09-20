@@ -1,6 +1,6 @@
-<div align="center" style="flex-direction: row;">
+<div align="center">
     <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/banner-01.jpg" width="25%" align="right" />
-    <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" align="center"  />
+    <img src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/refs/heads/main/assets/separate-02.jpg" width="70%"  />
 
 </div>
 

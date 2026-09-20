@@ -124,7 +124,8 @@ Me chamo Pedro, mais conhecido como Batatinha. Tenho 16 anos e sou naturalmente 
 
 
 <div align="center">
-   <img width="100%" src="https://raw.githubusercontent.com/IBatatinha/IBatatinha/output/snake.svg" alt="Snake animation" />
+    ![My GitHub Game](game.gif)
 </div>
+
 
 

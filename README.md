@@ -15,13 +15,13 @@
 <a href="https://www.instagram.com/batatinha.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord"></a>
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
     
-<div align="left" style="width: 70%;" width="70%">
+<div align="left">
 
 <img src="https://github-stats-extended.vercel.app/api?username=IBatatinha&theme=apprentice&card_width=400" />
 
 <br />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=apprentice&card_width=50" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=apprentice" />
 
 </div>
 </div>

@@ -15,9 +15,9 @@
 <a href="https://www.instagram.com/batatinha.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord"></a>
 <a href="https://www.youtube.com/@batatinha0001"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="discord"></a>
 
-<div style="flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load" width="auto">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBatatinha&theme=apprentice&animation=load" width="auto">
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBatatinha&theme=apprentice&animation=load" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBatatinha&theme=apprentice&animation=load" />
 </div>
 </div>
 
